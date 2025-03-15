@@ -25,6 +25,6 @@ Run the Bot
 
 created by: pexy
 
-  
+!!!!!!! Update Claim FAUCET SOON !!!!!!!
 
 
