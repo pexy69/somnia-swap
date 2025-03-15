@@ -1,0 +1,9 @@
+{
+    "RPC_URL": "https://dream-rpc.somnia.network", 
+    "PRIVATE_KEY": "UR_PRIVATE_KEY",  
+    "tokenIn": "0x7968ac15a72629E05F41B8271e4e7292E0cC9f90",  
+    "tokenOut": "0xBeCd9B5F373877881D91cBdBaF013D97eB532154", 
+    "swapAmount": 1,  
+    "loopInterval": 5000   
+  }
+  
