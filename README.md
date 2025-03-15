@@ -4,4 +4,4 @@
 █     █▄   ▄▀  ▄ █      █    
  █    ▀███▀   █   ▀▄  ▄▀     
   ▀            ▀             
-Running: Somnia AutoSwap
+!Running: Somnia AutoSwap!
