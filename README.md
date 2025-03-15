@@ -15,7 +15,7 @@
 
 Install dependencies
  
-   **npm install**
+   npm install
 
 go to " config.json " and set your settings
 
