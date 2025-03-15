@@ -7,10 +7,11 @@
 !Running: Somnia AutoSwap!
 
 
-Clone the repository:
+**Clone the repository:**
 
-   git clone https://github.com/username/somnia-swap.git 
-   cd somnia-swap 
+```bash
+git clone https://github.com/username/somnia-swap.git
+cd somnia-swap
 
 Install dependencies
  
